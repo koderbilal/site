@@ -2,7 +2,6 @@
   "name": "site",
   "version": "1.0.0",
   "description": "site",
-  "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --public-url ./"
